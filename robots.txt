@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lkdqin.github.io/sitemap.html.gz
+Sitemap: https://lkdqin.github.io/app/sitemap.html.gz
+Sitemap: https://lkdqin.github.io/assets/sitemap.html.gz
+Sitemap: https://lkdqin.github.io/css/sitemap.html.gz
+Sitemap: https://lkdqin.github.io/data/sitemap.html.gz
+Sitemap: https://lkdqin.github.io/includes/sitemap.html.gz
+Sitemap: https://lkdqin.github.io/item/sitemap.html.gz
+Sitemap: https://lkdqin.github.io/src/sitemap.html.gz
